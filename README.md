@@ -14,3 +14,15 @@ FEATURES:
 3) Creates/Updates CSV file for details of students on registration.
 4) Creates a new CSV file everyday for attendance and marks attendance with proper date and time.
 5) Displays live attendance updates for the day on the main screen in tabular format with Id, name, date and time.
+
+USAGE:
+1. Capture Images
+- Run `main_Run.py` to open the GUI.
+- Enter the student's enrollment number and name.
+- Click on Take Images to capture their face images.
+
+2. Train the Model
+- After capturing images, click on Train Images to train the face recognition model.
+
+3. View Registered Students
+- Access the admin panel to view the list of registered students and their details.
